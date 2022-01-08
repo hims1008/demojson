@@ -1,0 +1,392 @@
+[
+    {
+      "CategoryID": "1",
+      "CategoryName": "Easy",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_1.webp"
+    },
+    {
+      "CategoryID": "2",
+      "CategoryName": "Veg",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_2.webp"
+    },
+    {
+      "CategoryID": "3",
+      "CategoryName": "Dessert",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_3.webp"
+    },
+    {
+      "CategoryID": "4",
+      "CategoryName": "Healthy",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_4.webp"
+    },
+    {
+      "CategoryID": "5",
+      "CategoryName": "Everyday",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_5.webp"
+    },
+    {
+      "CategoryID": "6",
+      "CategoryName": "Egg Free",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_6.webp"
+    },
+    {
+      "CategoryID": "7",
+      "CategoryName": "Fusion",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_7.webp"
+    },
+    {
+      "CategoryID": "8",
+      "CategoryName": "Snacks",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_8.webp"
+    },
+    {
+      "CategoryID": "9",
+      "CategoryName": "Indian",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_9.webp"
+    },
+    {
+      "CategoryID": "10",
+      "CategoryName": "Kids Recipes",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_10.webp"
+    },
+    {
+      "CategoryID": "11",
+      "CategoryName": "Dinner Party",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_11.webp"
+    },
+    {
+      "CategoryID": "12",
+      "CategoryName": "Non-veg",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_12.webp"
+    },
+    {
+      "CategoryID": "13",
+      "CategoryName": "Medium",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_13.webp"
+    },
+    {
+      "CategoryID": "14",
+      "CategoryName": "Gujarat",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_14.webp"
+    },
+    {
+      "CategoryID": "15",
+      "CategoryName": "Festive",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_15.webp"
+    },
+    {
+      "CategoryID": "16",
+      "CategoryName": "Breakfast and Brunch",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_16.webp"
+    },
+    {
+      "CategoryID": "17",
+      "CategoryName": "Baking",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_17.webp"
+    },
+    {
+      "CategoryID": "18",
+      "CategoryName": "Side Dishes",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_18.webp"
+    },
+    {
+      "CategoryID": "19",
+      "CategoryName": "Main Dish",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_19.webp"
+    },
+    {
+      "CategoryID": "20",
+      "CategoryName": "Low Fat",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_20.webp"
+    },
+    {
+      "CategoryID": "21",
+      "CategoryName": "Egg-free",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_21.webp"
+    },
+    {
+      "CategoryID": "22",
+      "CategoryName": "North Indian",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_22.webp"
+    },
+    {
+      "CategoryID": "23",
+      "CategoryName": "Others",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_23.webp"
+    },
+    {
+      "CategoryID": "24",
+      "CategoryName": "Whisking",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_24.webp"
+    },
+    {
+      "CategoryID": "25",
+      "CategoryName": "West Bengal",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_25.webp"
+    },
+    {
+      "CategoryID": "26",
+      "CategoryName": "Christmas",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_26.webp"
+    },
+    {
+      "CategoryID": "27",
+      "CategoryName": "Kids Birthday",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_27.webp"
+    },
+    {
+      "CategoryID": "28",
+      "CategoryName": "Vegan",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_28.webp"
+    },
+    {
+      "CategoryID": "29",
+      "CategoryName": "Kitty Parties",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_29.webp"
+    },
+    {
+      "CategoryID": "30",
+      "CategoryName": "Sauteeing",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_30.webp"
+    },
+    {
+      "CategoryID": "31",
+      "CategoryName": "Bachelors",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_31.webp"
+    },
+    {
+      "CategoryID": "32",
+      "CategoryName": "Basic recipe",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_32.webp"
+    },
+    {
+      "CategoryID": "33",
+      "CategoryName": "Appetizers",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_33.webp"
+    },
+    {
+      "CategoryID": "34",
+      "CategoryName": "2 Minute Recipes",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_34.webp"
+    },
+    {
+      "CategoryID": "35",
+      "CategoryName": "Chilling",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_35.webp"
+    },
+    {
+      "CategoryID": "36",
+      "CategoryName": "UP",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_36.webp"
+    },
+    {
+      "CategoryID": "37",
+      "CategoryName": "Punjabi",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_37.webp"
+    },
+    {
+      "CategoryID": "38",
+      "CategoryName": "Low Calorie",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_38.webp"
+    },
+    {
+      "CategoryID": "39",
+      "CategoryName": "European",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_39.webp"
+    },
+    {
+      "CategoryID": "40",
+      "CategoryName": "Italian",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_40.webp"
+    },
+    {
+      "CategoryID": "41",
+      "CategoryName": "Steaming",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_41.webp"
+    },
+    {
+      "CategoryID": "42",
+      "CategoryName": "American",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_42.webp"
+    },
+    {
+      "CategoryID": "43",
+      "CategoryName": "Boiling",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_43.webp"
+    },
+    {
+      "CategoryID": "44",
+      "CategoryName": "Accompaniment",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_44.webp"
+    },
+    {
+      "CategoryID": "45",
+      "CategoryName": "Frying",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_45.webp"
+    },
+    {
+      "CategoryID": "46",
+      "CategoryName": "Pan fry",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_46.webp"
+    },
+    {
+      "CategoryID": "47",
+      "CategoryName": "Gluten Free",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_47.webp"
+    },
+    {
+      "CategoryID": "48",
+      "CategoryName": "Kerala",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_48.webp"
+    },
+    {
+      "CategoryID": "49",
+      "CategoryName": "Pan Asian",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_49.webp"
+    },
+    {
+      "CategoryID": "50",
+      "CategoryName": "Diwali",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_50.webp"
+    },
+    {
+      "CategoryID": "51",
+      "CategoryName": "Simmering",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_51.webp"
+    },
+    {
+      "CategoryID": "52",
+      "CategoryName": "Low Cholestrol",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_52.webp"
+    },
+    {
+      "CategoryID": "53",
+      "CategoryName": "Blending",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_53.webp"
+    },
+    {
+      "CategoryID": "54",
+      "CategoryName": "Tiffin Recipes",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_54.webp"
+    },
+    {
+      "CategoryID": "55",
+      "CategoryName": "Maharashtra",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_55.webp"
+    },
+    {
+      "CategoryID": "56",
+      "CategoryName": "Shallow fry",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_56.webp"
+    },
+    {
+      "CategoryID": "57",
+      "CategoryName": "Salad",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_57.webp"
+    },
+    {
+      "CategoryID": "58",
+      "CategoryName": "South Indian",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_58.webp"
+    },
+    {
+      "CategoryID": "59",
+      "CategoryName": "Freezing",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_59.webp"
+    },
+    {
+      "CategoryID": "60",
+      "CategoryName": "Assam and North East",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_60.webp"
+    },
+    {
+      "CategoryID": "61",
+      "CategoryName": "Karnataka",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_61.webp"
+    },
+    {
+      "CategoryID": "62",
+      "CategoryName": "Pressure Cook",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_62.webp"
+    },
+    {
+      "CategoryID": "63",
+      "CategoryName": "Stir fry",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_63.webp"
+    },
+    {
+      "CategoryID": "64",
+      "CategoryName": "Andhra Pradesh",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_64.webp"
+    },
+    {
+      "CategoryID": "65",
+      "CategoryName": "Diabetes",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_65.webp"
+    },
+    {
+      "CategoryID": "66",
+      "CategoryName": "Hyderabadi",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_66.webp"
+    },
+    {
+      "CategoryID": "67",
+      "CategoryName": "Valentine's Day",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_67.webp"
+    },
+    {
+      "CategoryID": "68",
+      "CategoryName": "Roasting",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_68.webp"
+    },
+    {
+      "CategoryID": "69",
+      "CategoryName": "Bihar",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_69.webp"
+    },
+    {
+      "CategoryID": "70",
+      "CategoryName": "Madhya Pradesh",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_70.webp"
+    },
+    {
+      "CategoryID": "71",
+      "CategoryName": "Mughlai",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_71.webp"
+    },
+    {
+      "CategoryID": "72",
+      "CategoryName": "High Fibre",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_72.webp"
+    },
+    {
+      "CategoryID": "73",
+      "CategoryName": "Tossing",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_73.webp"
+    },
+    {
+      "CategoryID": "74",
+      "CategoryName": "Condiments",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_74.webp"
+    },
+    {
+      "CategoryID": "75",
+      "CategoryName": "Tamil Nadu",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_75.webp"
+    },
+    {
+      "CategoryID": "76",
+      "CategoryName": "Air Frying",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_76.webp"
+    },
+    {
+      "CategoryID": "77",
+      "CategoryName": "Mexican",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_77.webp"
+    },
+    {
+      "CategoryID": "78",
+      "CategoryName": "Grilling",
+      "ImagePath1": "http://s1.bninfotech.co.in/microwave/cat_78.webp"
+    }
+  ]

@@ -1,0 +1,23 @@
+{
+  "package_name": "com.wavesoundstudio.sandartmaker",
+  "app_version": "1.0",
+  "is_ad_show": true,
+  "admob_appid": "",
+  "admob_interid": "/21753324030,22798965566/com.wavesoundstudio.sandartmaker_Interstitial",
+  "admob_bannerid": "/21753324030,22798965566/com.wavesoundstudio.sandartmaker_Banner",
+  "admob_nativeid": "/21753324030,22798965566/com.wavesoundstudio.sandartmaker_Native",
+  "admob_appopenid": "/21753324030,22798965566/com.wavesoundstudio.sandartmaker_AppOpen",
+  "click_appopen_id": "/21753324030,22798965566/com.wavesoundstudio.sandartmaker_AppOpen",
+  "admob_reward": "/21753324030,22798965566/com.wavesoundstudio.sandartmaker_Rewarded",
+  "fb_inter_id": "",
+  "fb_banner_id": "",
+  "fb_native_id": "",
+  "fb_native_banner_id": "",
+  "inter_count": "3",
+  "ad_splash": "appopen",
+  "ad_inter": "admob",
+  "ad_appopen": "admob",
+  "ad_native": "admob",
+  "ad_banner": "admob",
+  "privacy_url": ""
+}

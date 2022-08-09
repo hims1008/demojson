@@ -1,0 +1,23 @@
+{
+  "package_name": "com.wavesoundstudio.faceswapeditor",
+  "app_version": "1.0",
+  "is_ad_show": true,
+  "admob_appid": "",
+  "admob_interid": "/6499/example/interstitial",
+  "admob_bannerid": "/6499/example/banner",
+  "admob_nativeid": "/6499/example/native",
+  "admob_appopenid": "/6499/example/app-open",
+  "click_appopen_id": "/6499/example/app-open",
+  "admob_reward": "/6499/example/reward",
+  "fb_inter_id": "",
+  "fb_banner_id": "",
+  "fb_native_id": "",
+  "fb_native_banner_id": "",
+  "inter_count": "3",
+  "ad_splash": "appopen",
+  "ad_inter": "admob",
+  "ad_appopen": "admob",
+  "ad_native": "admob",
+  "ad_banner": "admob",
+  "privacy_url": ""
+}

@@ -3,8 +3,8 @@
   "app_version": "1",
   "is_ad_show": true,
   "admob_appid": "",
-  "admob_interid": ["/6499/example/interstitial","/6499/example/interstitial","/6499/example/interstitial","/6499/example/interstitial","/6499/example/interstitial"]
-  "admob_bannerid": ["/6499/example/banner","/6499/example/banner"]
+  "admob_interid": ["/6499/example/interstitial","/6499/example/interstitial","/6499/example/interstitial","/6499/example/interstitial","/6499/example/interstitial"],
+  "admob_bannerid": ["/6499/example/banner","/6499/example/banner"],
   "admob_nativeid": "/6499/example/native",
   "admob_appopenid": "/6499/example/app-open",
   "click_appopen_id": "/6499/example/app-open",

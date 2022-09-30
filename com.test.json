@@ -15,9 +15,9 @@
   "fb_native_banner_id": "",
   "inter_count": "3",
   "ad_splash": "1",
-  "ad_inter": "admob",
+  "ad_inter": "1",
   "ad_appopen": "1",
-  "ad_native": "admob",
-  "ad_banner": "admob",
+  "ad_native": "1",
+  "ad_banner": "1",
   "privacy_url": ""
 }

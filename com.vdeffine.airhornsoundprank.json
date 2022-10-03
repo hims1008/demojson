@@ -1,0 +1,23 @@
+{
+  "package_name": "com.vdeffine.airhornsoundprank",
+  "app_version": "10",
+  "is_ad_show": true,
+  "admob_appid": "",
+  "admob_interid": "/22387492205,22821742898/com.vdeffine.airhornsoundprank.Interstitial0.1664171698",
+  "admob_bannerid": "/22387492205,22821742898/com.vdeffine.airhornsoundprank.Banner0.1664171653",
+  "admob_nativeid": "/22387492205,22821742898/com.vdeffine.airhornsoundprank.Native0.1664171678",
+  "admob_appopenid": "/22387492205,22821742898/com.vdeffine.airhornsoundprank.AppOpen0.1664171729",
+  "click_appopen_id": "/22387492205,22821742898/com.vdeffine.airhornsoundprank.AppOpen0.1664171729",
+  "admob_reward": "/22387492205,22821742898/com.vdeffine.airhornsoundprank.Rewarded0.1664171750",
+  "fb_inter_id": "",
+  "fb_banner_id": "",
+  "fb_native_id": "",
+  "fb_native_banner_id": "",
+  "inter_count": "2",
+  "ad_splash": "appopen",
+  "ad_inter": "admob",
+  "ad_appopen": "admob",
+  "ad_native": "admob",
+  "ad_banner": "admob",
+  "privacy_url": "https://sites.google.com/view/vdeffine-privacy-policy/home"
+}

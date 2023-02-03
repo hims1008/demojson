@@ -14,7 +14,7 @@
       "iosUrl": "https://apps.apple.com/us/app/piano-latest/id1467877426",
       "androidUrl": "",
       "appBundleIos": "com.ptpatel.piano",
-      "appBundleAndroid": "com.ptpatel.piano"
+      "appBundleAndroid": "com.ptpatel.piano.android"
     },
     {
       "appName": "Nature Sounds - Relax & Sleep",

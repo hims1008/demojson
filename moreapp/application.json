@@ -5,8 +5,16 @@
       "appIconUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ea/5c/bc/ea5cbc1c-2e12-adb7-1584-8247b6588970/source/1024x1024.jpg",
       "iosUrl": "https://apps.apple.com/us/app/harmonium-real-sounds/id1468096369",
       "androidUrl": "",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
+      "appBundleIos": "com.ptpatel.harmonium",
+      "appBundleAndroid": "com.example.harmonium"
+    },
+    {
+      "appName": "Piano Latest",
+      "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/f9/18/d1/f918d170-1f88-969b-84a3-0065b976915b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/492x0w.webp",
+      "iosUrl": "https://apps.apple.com/us/app/piano-latest/id1467877426",
+      "androidUrl": "",
+      "appBundleIos": "com.ptpatel.piano",
+      "appBundleAndroid": "com.ptpatel.piano"
     },
     {
       "appName": "Nature Sounds - Relax & Sleep",
@@ -14,7 +22,7 @@
       "iosUrl": "https://apps.apple.com/us/app/nature-sounds-relax-sleep/id1492903871",
       "androidUrl": "",
       "appBundleIos": "",
-      "appBundleAndroid": ""
+      "appBundleAndroid": "com.example.test1"
     },
     {
       "appName": "Math Learner: Easy Maths",
@@ -78,14 +86,6 @@
       "appName": "Latest Hindi Kahaniya",
       "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/16/74/5b/16745b21-dd81-139b-901b-482572b748f2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.webp",
       "iosUrl": "https://apps.apple.com/us/app/latest-hindi-kahaniya/id1364825855",
-      "androidUrl": "",
-      "appBundleIos": "",
-      "appBundleAndroid": ""
-    },
-    {
-      "appName": "Piano Latest",
-      "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/f9/18/d1/f918d170-1f88-969b-84a3-0065b976915b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/492x0w.webp",
-      "iosUrl": "https://apps.apple.com/us/app/piano-latest/id1467877426",
       "androidUrl": "",
       "appBundleIos": "",
       "appBundleAndroid": ""

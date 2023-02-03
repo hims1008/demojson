@@ -20,9 +20,9 @@
       "appName": "Nature Sounds - Relax & Sleep",
       "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/86/20/1d/86201d4b-af67-8c49-0763-413a4961036d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
       "iosUrl": "",
-      "androidUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/details?id=in.bansalindia.beautifulnaturewallpaper",
       "appBundleIos": "",
-      "appBundleAndroid": "com.example.test1"
+      "appBundleAndroid": "in.bansalindia.beautifulnaturewallpaper"
     },
     {
       "appName": "Math Learner: Easy Maths",

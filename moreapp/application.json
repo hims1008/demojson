@@ -19,7 +19,7 @@
     {
       "appName": "Nature Sounds - Relax & Sleep",
       "appIconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/86/20/1d/86201d4b-af67-8c49-0763-413a4961036d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
-      "iosUrl": "https://apps.apple.com/us/app/nature-sounds-relax-sleep/id1492903871",
+      "iosUrl": "",
       "androidUrl": "",
       "appBundleIos": "",
       "appBundleAndroid": "com.example.test1"
@@ -51,8 +51,7 @@
     {
       "appName": "Name Anniversary Cake",
       "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/b0/2c/49/b02c4902-95e5-dbf9-3bf9-175f24dfc766/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/246x0w.webp",
-      "appUrl": "https://apps.apple.com/us/app/name-anniversary-cake/id1568995576",
-      "iosUrl": "https://apps.apple.com/us/app/name-anniversary-cake/id1568995576",
+      "iosUrl": "",
       "androidUrl": "",
       "appBundleIos": "",
       "appBundleAndroid": ""
@@ -60,8 +59,7 @@
     {
       "appName": "Spider Smasher Game",
       "appIconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/05/59/c8/0559c86b-d436-a05f-0251-4e0db64a3f59/AppIcon-1x_U007emarketing-0-10-0-85-220.png/246x0w.webp",
-      "appUrl": "https://apps.apple.com/us/app/spider-smasher-game/id1567553625",
-      "iosUrl": "https://apps.apple.com/us/app/spider-smasher-game/id1567553625",
+      "iosUrl": "",
       "androidUrl": "",
       "appBundleIos": "",
       "appBundleAndroid": ""
